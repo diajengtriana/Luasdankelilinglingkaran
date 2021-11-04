@@ -16,4 +16,5 @@ keliling = 2*phi*r
 
 print("Luas lingkaran adalah : "+ str(luas))
 print("Keliling lingkaran adalah : "+ str(keliling))
-<img width="731" alt="Screenshot 2021-11-03 160129" src="https://user-images.githubusercontent.com/92905452/140273504-9a12266a-5f1a-4959-98b7-98997f845dec.png">
+
+<img width="731" alt="Screenshot 2021-11-03 160129" src="https://user-images.githubusercontent.com/92905452/140275212-c9301672-fac0-4c31-bf7b-2e46d75be24b.png">
